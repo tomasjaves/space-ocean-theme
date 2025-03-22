@@ -21,7 +21,7 @@
 
 ## 🚀 Installation
 
-### 🔸 From Marketplace (when published)
+### 🔸 From Marketplace
 
 _Search for `Space Ocean Theme` on the Extensions Marketplace._
 
