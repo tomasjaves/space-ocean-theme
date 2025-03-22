@@ -861,59 +861,10 @@
       }
     },
     {
-      "name": "[VSCODE-CUSTOM] Markdown headings",
-      "scope": "entity.name.section.markdown",
-      "settings": {
-        "foreground": "#a7a7a7"
-      }
-    },
-    {
-      "name": "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
-      "scope": "punctuation.definition.heading.markdown",
-      "settings": {
-        "foreground": "#a7a7a7"
-      }
-    },
-    {
-      "name": "punctuation.definition.list.begin.markdown",
-      "scope": "punctuation.definition.list.begin.markdown",
-      "settings": {
-        "foreground": "#a7a7a7"
-      }
-    },
-    {
-      "name": "[VSCODE-CUSTOM] Markdown heading setext",
-      "scope": "markup.heading.setext",
-      "settings": {
-        "foreground": "#d4d4d4"
-      }
-    },
-    {
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold",
       "scope": "punctuation.definition.bold.markdown",
       "settings": {
         "foreground": "#ce9178"
-      }
-    },
-    {
-      "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
-      "scope": "markup.inline.raw.markdown",
-      "settings": {
-        "foreground": "#ce9178"
-      }
-    },
-    {
-      "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
-      "scope": "markup.inline.raw.string.markdown",
-      "settings": {
-        "foreground": "#ce9178"
-      }
-    },
-    {
-      "name": "[VSCODE-CUSTOM] Markdown List Punctuation Definition",
-      "scope": "punctuation.definition.list.markdown",
-      "settings": {
-        "foreground": "#a7a7a7"
       }
     },
     {
@@ -922,15 +873,6 @@
         "punctuation.definition.string.begin.markdown",
         "punctuation.definition.string.end.markdown",
         "punctuation.definition.metadata.markdown"
-      ],
-      "settings": {
-        "foreground": "#a7a7a7"
-      }
-    },
-    {
-      "name": "beginning.punctuation.definition.list.markdown",
-      "scope": [
-        "beginning.punctuation.definition.list.markdown"
       ],
       "settings": {
         "foreground": "#a7a7a7"
@@ -1766,17 +1708,6 @@
       }
     },
     {
-      "name": "Markdown underscore-style headers",
-      "scope": [
-        "entity.name.label.cs",
-        "markup.heading.setext.1.markdown",
-        "markup.heading.setext.2.markdown"
-      ],
-      "settings": {
-        "foreground": "#a7a7a7"
-      }
-    },
-    {
       "name": "meta.brace.square",
       "scope": [
         " meta.brace.square"
@@ -1790,13 +1721,6 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "",
-        "foreground": "#717171"
-      }
-    },
-    {
-      "name": "[VSCODE-CUSTOM] Markdown Quote",
-      "scope": "markup.quote.markdown",
-      "settings": {
         "foreground": "#717171"
       }
     },
@@ -1842,7 +1766,98 @@
       "settings": {
         "fontStyle": ""
       }
+    },
+    {
+      "name": "[SPACE OCEAN] Markdown List Items",
+      "scope": [
+        "beginning.punctuation.definition.list.markdown",
+        "punctuation.definition.list.begin.markdown"
+      ],
+      "settings": {
+        "foreground": "#2997f9",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "[SPACE OCEAN] Markdown Links",
+      "scope": [
+        "markup.underline.link.markdown",
+        "markup.underline.link.image.markdown"
+      ],
+      "settings": {
+        "foreground": "#2997f9",
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "[SPACE OCEAN] Markdown Italic",
+      "scope": [
+        "markup.italic.markdown",
+        "punctuation.definition.italic.markdown"
+      ],
+      "settings": {
+        "foreground": "#00b0c0",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "[SPACE OCEAN] Markdown Headings",
+      "scope": [
+        "markup.heading.markdown",
+        "entity.name.section.markdown"
+      ],
+      "settings": {
+        "foreground": "#a2dcff",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "[SPACE OCEAN] Markdown Blockquote",
+      "scope": [
+        "markup.quote.markdown"
+      ],
+      "settings": {
+        "foreground": "#6e6e6e",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "[SPACE OCEAN] Markdown Inline Code",
+      "scope": [
+        "markup.inline.raw.markdown",
+        "markup.inline.raw.string.markdown",
+        "markup.raw.inline.markdown",
+        "markup.inline.code.markdown",
+        "markup.raw.code.inline.markdown"
+      ],
+      "settings": {
+        "foreground": "#00b0c0",
+        "background": "#001933",
+        "fontStyle": "italic"
+      }
     }
+    ,
+    {
+      "name": "[SPACE OCEAN] Markdown Code Block",
+      "scope": [
+        "markup.fenced_code.block.markdown",
+        "markup.raw.block.markdown"
+      ],
+      "settings": {
+        "foreground": "#a2dcff",
+        "background": "#001933"
+      }
+    },
+    {
+      "name": "[SPACE OCEAN] Markdown Text",
+      "scope": [
+        "text.html.markdown",
+        "markup.paragraph.markdown"
+      ],
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    }    
   ],
   "colors": {
     "foreground": "#cccccc",

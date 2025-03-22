@@ -1,5 +1,5 @@
 {
-	"name": "space-ocean-theme",
+	"name": "space-ocean",
 	"displayName": "Space Ocean Theme",
 	"description": "A deep, immersive coding experience blending the vast calm of the ocean with the elegance of outer space.",
 	"icon": "images/space-ocean-image.jpg",
@@ -27,6 +27,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/usuario/proyecto"
+		"url": "https://github.com/tomasjaves/space-ocean-theme"
 	}
 }
