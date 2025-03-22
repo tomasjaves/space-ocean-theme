@@ -8,12 +8,6 @@
 
 ---
 
-## 🌌 Preview
-
-![Space Ocean Preview](images/space-ocean.png)
-
----
-
 ## ✨ Features
 
 - 🧿 Eye-friendly **dark blue palette**
