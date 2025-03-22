@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
 ![VSCode](https://img.shields.io/badge/VSCode-1.70%2B-blueviolet?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-[![Download VSIX](https://img.shields.io/badge/Download-.vsix-blue?logo=visualstudiocode&logoColor=white)](https://github.com/tomasjaves/space-ocean-theme/releases/download/v1.0.0/space-ocean-theme-1.0.0.vsix)
+[![Download VSIX](https://img.shields.io/badge/Download-.vsix-blue?logo=visualstudiocode&logoColor=white)](https://github.com/tomasjaves/space-ocean-theme/releases/download/v1.0.0/space-ocean-1.0.0.vsix)
 
 > A deep immersive coding experience blending the **vast calm of the ocean** with the **elegance of outer space**.
 
@@ -27,7 +27,7 @@ _Search for `Space Ocean Theme` on the Extensions Marketplace._
 
 ### 🔸 Manual (.vsix)
 
-1. Download the [`space-ocean-theme-1.0.0.vsix`](https://github.com/tomasjaves/space-ocean-theme/releases/download/v1.0.0/space-ocean-theme-1.0.0.vsix) file from the [Releases](https://github.com/tomasjaves/space-ocean-theme/releases) page.
+1. Download the [`space-ocean-theme-1.0.0.vsix`](https://github.com/tomasjaves/space-ocean-theme/releases/download/v1.0.0/space-ocean-1.0.0.vsix) file from the [Releases](https://github.com/tomasjaves/space-ocean-theme/releases) page.
 2. Open Command Palette (Ctrl+Shift+P)
 3. Select `Extensions: Install from VSIX...`
 4. Choose the `.vsix` file
