@@ -1,0 +1,32 @@
+{
+	"name": "space-ocean-theme",
+	"displayName": "Space Ocean Theme",
+	"description": "A deep, immersive coding experience blending the vast calm of the ocean with the elegance of outer space.",
+	"icon": "images/space-ocean-image.jpg",
+	"version": "1.0.0",
+	"publisher": "tomasjaves",
+	"engines": {
+		"vscode": "^1.70.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Space Ocean - Tomás Javes",
+				"uiTheme": "vs-dark",
+				"path": "./themes/space-ocean-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1742614001920,
+		"targetPlatform": "undefined",
+		"size": 224463
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/usuario/proyecto"
+	}
+}
